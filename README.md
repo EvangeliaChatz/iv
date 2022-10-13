@@ -1,12 +1,10 @@
 # Οπτικοποίηση της Πληροφορίας
 
-Κωδικός τηλεδιάσκεψης: 975879
-
 >> Μπορείτε να βρείτε τον πηγαίο κώδικα για τον παρακάτω πίνακα στο κουμπί `Raw` και μετά να τον αντιγράψετε στην αναφορά σας ως πίνακα περιεχομένων με σύνδεσμο προς τις υποενότητες-δραστηριότητες κάθε εβδομάδας.
 
 | Εβδομάδα* | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
-| 1 | [Δημιουργία ομάδας](https://courses-ionio.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | |
+| 1 | [Δημιουργία ομάδας](https://courses-ionio.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> | | | [Εισαγωγή Βιογραφικού](https://github.com/upatras-hci/iv/discussions/35)
 | 2 | βιογραφικό Α | | |
 | 3 | συμμετοχικό περιεχόμενο 1A | | |
 | 4 | γραμμή εντολών (arch linux) | | |
