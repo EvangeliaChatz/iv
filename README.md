@@ -22,7 +22,7 @@
 
 ## Introduction
 My name is Chatzilygeroudi Evangelia.
-I used to work in finance , after my bachelor at Department of Economics, but after many years of interaction with arts, jewelry(3D design) and make designs for friends and work, I discovered that design is my passion. 
+I used to work in finance , after my bachelor at [Department of Economics](https://www.econ.upatras.gr/el), but after many years of interaction with arts, jewelry(3D design) and make designs for friends and work, I discovered that design is my passion. 
 
 I have been studying for six months, User Experience Design (at SAE Institute) so that i can make my designs beautiful and easy to use. Now, i'm working at an Agency as UI/UX Designer.
 At SAE Institute, I have had the chance to get to know the process (UX
