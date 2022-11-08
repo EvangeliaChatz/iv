@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | 1 | [Δημιουργία ομάδας](https://courses-ionio.github.io/help/team/) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/upatras-hci/iv/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/upatras-hci/iv/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Εισαγωγή Βιογραφικού](https://github.com/upatras-hci/iv/discussions/35)| | 
 | 2 | βιογραφικό Α | [Βιογραφικό Α](https://evangeliachatz.github.io/online-cv/)  |
-| 3 | γραμμή εντολών (arch linux) | [Arch Linux Installation (USB)](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiMG9NMkthVFJPeXhhekpTN0U1blFwWlhORG5DNExLVUxsaVM0em9tUm9BbDlpTjF6QWk3eDIwMGtNTEhFOUZOVVRYN2ZmYWs2M042RnNmYlBldU1Gbk84PSIsImgiOiJBcmNoIExpbnV4IEluc3RhbGxhdGlvbiIsImkiOiI4MiswNFpEc3ZVRDNLME8rIn0=)| |
+| 3 | γραμμή εντολών (arch linux) |[Arch Linux Virtual Box Installation](https://github.com/EvangeliaChatz/iv/blob/main/reports/commandLine_1_Solution)| |
 | 4 | συμμετοχικό περιεχόμενο 1A | | |
 | 5 | γραμμή εντολών (custom desktop environment) | | |
 | 6 | συμμετοχικό περιεχόμενο 2Α | | |
