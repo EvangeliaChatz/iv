@@ -17,3 +17,10 @@ Asciinema Link:
 https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY
 ----------------------------------------------------------
 
+VLC media player Installation 
+
+sudo pacman -S vlc
+
+Gif for installation and execute at:
+EvangeliaChatz/iv/reports/VCL_Installation.gif
+
