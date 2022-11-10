@@ -1,0 +1,16 @@
+polybar Installation & Execute
+
+The instructions of this link were followed:
+https://github.com/adi1090x/polybar-themes
+
+----------------------------------------------------------
+
+Pipes Installation & Execute
+
+git clone https://github.com/pipeseroni/pipes.sh.git
+cd pipes.sh
+./pipes.sh
+
+Asciinema Link:
+https://asciinema.org/a/PrZft1RuUiJ1qmK9Q0C0scVBY
+----------------------------------------------------------
