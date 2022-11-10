@@ -1,6 +1,6 @@
 --------------------- Powerline ---------------------
 
-https://asciinema.org/a/1EKCVHkGWZPXkMThCT52a2QDi
+https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx
 powerline installation
 install powerline & powerline-fonts packages with sudo pacman
 add the following lines to ~/.bashrc file in order to enable powerline
@@ -17,14 +17,14 @@ finally, source .bashrc, or close and reopen Terminal
 
 --------------------- Neofetch ---------------------
 
-https://asciinema.org/a/m5MS8ZYvjzD4MlPhvefnIzAI1
+https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi
 neofetch installation - run
 downolad neofetch package with sudo pacman
 run neofetch
 
 --------------------- Solarized ---------------------
 
-https://asciinema.org/a/GcsLsVJ4eqROpQ09v7aSpXLJP
+https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN
 solarized installation - example
 Download solarized package. There you will fine a file with name: solarized.vim
 Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir
