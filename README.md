@@ -18,6 +18,11 @@
 | 12 | Τελική αναφορά* | | |
 
 
+## Personal Information
+Όνομα: Chatzilygeroudi Evangelia <br />
+ΑΜ: 1018865
+
+
 ## Introduction
 My name is Chatzilygeroudi Evangelia.
 I used to work in finance , after my bachelor at [Department of Economics](https://www.econ.upatras.gr/el), but after many years of interaction with arts, jewelry(3D design) and make designs for friends and work, I discovered that design is my passion. 
