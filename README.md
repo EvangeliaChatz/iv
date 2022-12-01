@@ -40,4 +40,61 @@ In addition, it’s in my plans to develop my skills in Front End programming
 I decided to choose this course, because I would have the opportunity to expand my knowledge  and learn how the information is visualized correctly, which is part of my job.
 
 
+
 ## CV Site
+At first,we wanted to create an online site that CV will to created automatically from a [yaml](https://learnxinyminutes.com/docs/yaml/.) file.  <br />
+* [online CV](https://evangeliachatz.github.io/online-cv/) <br />
+* σύνδεσμος αποθετηρίου βιογραφικού](https://github.com/sharu725/online-cv) 
+
+
+## Command Line 1
+--------------------- Powerline ---------------------
+* powerline installation-example[(asciinema1)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx) <br />
+* install powerline & powerline-fonts packages with sudo pacman <br />
+* add the following lines to ~/.bashrc file in order to enable powerline <br />
+
+* powerline-deamon -q #if this line creates error remove it <br />
+* POWERLINE_BASH_CONTINUATION=1 <br />
+* POWERLINE_BASH_SELECT=1 <br />
+. /usr/lib/python3.10/site-packages/powerline/bindings/bash/powerline.sh <br />
+
+#instead of python3.10 place the version of your installed python
+#check which python installed with: python --version
+
+finally, source .bashrc, or close and reopen Terminal
+
+--------------------- Neofetch ---------------------
+* neofetch installation - run [(asciinema2)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)
+* downolad neofetch package with sudo pacman
+* run neofetch
+
+--------------------- Solarized ---------------------
+solarized installation - [(asciinema3)](https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN)  <br />
+* Download solarized package. There you will fine a file with name: solarized.vim  <br />
+* Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir  <br />
+* if you have no permissions to make that move, do it as a root  <br />
+* To become root type: sudo -i  <br />
+* Then create a vim file with name '.vimrc' on /home folder and place the below  <br />
+
+syntax enable
+set background=dark
+colorscheme solarized
+
+From now the vim file will open with solarized theme.
+
+Download solarized package. There you will fine a file with name: solarized.vim
+Move solarized.vim to ~/.vim/colors folder, if no exist create the folders using mkdir
+if you have no permissions to make that move, do it as a root
+To become root type: sudo -i
+Then create a vim file with name '.vimrc' on /home folder and place the below
+
+syntax enable
+set background=dark
+colorscheme solarized
+
+From now the vim file will open with solarized theme. 
+
+** The above commands are from different sources on internet. I found them while surfing for "How to" 
+
+
+
