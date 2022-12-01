@@ -40,4 +40,4 @@ In addition, it’s in my plans to develop my skills in Front End programming
 I decided to choose this course, because I would have the opportunity to expand my knowledge  and learn how the information is visualized correctly, which is part of my job.
 
 
-##CV Site
+## CV Site
