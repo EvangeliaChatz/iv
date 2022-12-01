@@ -44,7 +44,7 @@ I decided to choose this course, because I would have the opportunity to expand 
 ## CV Site
 At first,we wanted to create an online site that CV will to created automatically from a [yaml](https://learnxinyminutes.com/docs/yaml/.) file.  <br />
 * [online CV](https://evangeliachatz.github.io/online-cv/) <br />
-* σύνδεσμος αποθετηρίου βιογραφικού](https://github.com/sharu725/online-cv) 
+* [σύνδεσμος αποθετηρίου βιογραφικού](https://github.com/sharu725/online-cv) 
 
 
 ## Command Line 1
