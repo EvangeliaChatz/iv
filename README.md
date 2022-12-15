@@ -43,8 +43,23 @@ I decided to choose this course, because I would have the opportunity to expand 
 
 ## CV Site
 At first,we wanted to create an online site that CV ,will to created automatically from a [yaml](https://learnxinyminutes.com/docs/yaml/.) file,  using Jekyll.  <br />
+I create a branch 
 * [online CV](https://evangeliachatz.github.io/online-cv/) <br />
 * [σύνδεσμος αποθετηρίου βιογραφικού](https://github.com/sharu725/online-cv) 
+
+
+## Participatory content 1Α
+About the participatory 1A, we decided all together that we will place content, regarding to how the art is highlighted.
+* Text to Image AI is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description
+in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
+there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
+but are not free to use.
+The photo caption was created with the use of free Internet software "DeepAI", a Text To Image - AI Image Generator
+and using "Dancing Animals" as input the input text.
+![dancingAnimals(2)](https://github.com/EvangeliaChatz/iv/blob/main/dancingAnimals(2).jpeg) </br>
+<sup>The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
+
+[gallery](https://github.com/upatras-HCI-2022/_gallery/blob/master/textToImage.md)
 
 
 ## Command Line 1
