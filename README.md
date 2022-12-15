@@ -25,17 +25,17 @@
 
 ## Introduction
 My name is Chatzilygeroudi Evangelia.
-I used to work in finance , after my bachelor at [Department of Economics](https://www.econ.upatras.gr/el), but after many years of interaction with arts, jewelry(3D design) and make designs for friends and work, I discovered that design is my passion. 
+I used to work in finance , after my bachelor at [Department of Economics](https://www.econ.upatras.gr/el), but after many years of interaction with arts, jewelry(3D design) and make designs for friends and work, I discovered that design is my passion. </br>
 
-I have been studying for six months, User Experience Design at [SAE Institute](https://www.sae.edu/grc/?) , so that i can make my designs beautiful and easy to use. At SAE Institute, I have had the chance to get to know the process (UX
+I have been studying for six months, User Experience Design at [SAE Institute](https://www.sae.edu/grc/?) , so that I can make my designs beautiful and easy to use. At SAE Institute, I have had the chance to get to know the process (UX
 Competitive Analysis, Neilsen Heuristics, User Interviews, Usability Testing,
 Information Architecture, Navigation Design, Wireframes/Prototypes &
 Design System) of User Centered Design, where I was introduced the
 importance of analyzing the user’s behavior and use them at the design.
-Now, i'm working at an Agency as UI/UX Designer.
+Now, I'm working at an Agency as UI/UX Designer.</br>
 
 In addition, it’s in my plans to develop my skills in Front End programming
-(HTML, CSS, Javascript).
+(HTML, CSS, Javascript).</br>
 
 I decided to choose this course, because I would have the opportunity to expand my knowledge  and learn how the information is visualized correctly, which is part of my job.
 
@@ -44,25 +44,34 @@ I decided to choose this course, because I would have the opportunity to expand 
 ## CV Site
 At first,we wanted to create an online site that CV ,will to created automatically from a [yaml](https://learnxinyminutes.com/docs/yaml/.) file,  using Jekyll.  <br />
 I create a branch 
-* [online CV](https://evangeliachatz.github.io/online-cv/) <br />
-* [σύνδεσμος αποθετηρίου βιογραφικού](https://github.com/sharu725/online-cv) 
+* [link online CV](https://evangeliachatz.github.io/online-cv/) <br />
+* [link CV repository](https://github.com/sharu725/online-cv) 
 
 
 ## Participatory content 1Α
-About the participatory 1A, we decided all together that we will place content, regarding to how the art is highlighted.
+About this delivered, we decided all together that we will place content, regarding to how the art is highlighted.
 * Text to Image AI is technology that converts text to Pictures/Images, using AI algorithms. The AI models are feed with a huge amount of pictures/images with a simple description
 in order to be trained on converting text to images. These algorithms even if they can generate AI art, unreal images or funny paradox pictures,
 there is a lot of lack of photorealism in most of the results. Of course there are huger and more clever text-to-image generator
 but are not free to use.
 The photo caption was created with the use of free Internet software "DeepAI", a Text To Image - AI Image Generator
 and using "Dancing Animals" as input the input text.
+</br>
+
 ![dancingAnimals(2)](https://github.com/EvangeliaChatz/iv/blob/main/dancingAnimals(2).jpeg) </br>
 <sup>The license terms of the photo can be found [here](https://raw.githubusercontent.com/CompVis/stable-diffusion/main/LICENSE)</sup>
 
-[gallery](https://github.com/upatras-HCI-2022/_gallery/blob/master/textToImage.md)
+
+* [σύνδεσμος στο gallery](https://github.com/upatras-HCI-2022/_gallery/blob/master/texttoImage.md)
+* [σύνδεσμος στο images]( )
 
 
 ## Command Line 1
+* Firsty, I tried to install Arch Linux with USB, , but I couldn't input characters in terminale
+So the installation was repeated in Virtual Box shown in the [photo](https://github.com/EvangeliaChatz/iv/blob/main/virtual%20box.png) below. </br>
+
+* So re-installed in Virtual Box </br>
+
 --------------------- Powerline ---------------------
 * powerline installation-example[(asciinema1)](https://asciinema.org/a/j9Q86Tlig0Is8ZLlA6InJVfQx) <br />
 * install powerline & powerline-fonts packages with sudo pacman <br />
@@ -77,6 +86,7 @@ and using "Dancing Animals" as input the input text.
 #check which python installed with: python --version
 
 finally, source .bashrc, or close and reopen Terminal
+
 
 --------------------- Neofetch ---------------------
 * neofetch installation - run [(asciinema2)](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)
