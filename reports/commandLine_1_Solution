@@ -17,11 +17,10 @@ finally, source .bashrc, or close and reopen Terminal
 
 --------------------- Neofetch ---------------------
 
-https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi
 neofetch installation - run
 downolad neofetch package with sudo pacman
 run neofetch
-
+<sup>[asciinema video](https://asciinema.org/a/YxVWdKOGY5LTYak37pSUJafmi)</sup>
 --------------------- Solarized ---------------------
 
 https://asciinema.org/a/ed4oDeeBTOMuU5kxnJmNhgUZN
